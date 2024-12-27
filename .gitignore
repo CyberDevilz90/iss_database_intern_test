@@ -1,0 +1,2 @@
+*.sql~ *.log
+node_modules/
